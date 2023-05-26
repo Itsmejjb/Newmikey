@@ -1,1 +1,1 @@
-
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Itsmejjb/Newmikey/main/Mikey_3mk", true))()
